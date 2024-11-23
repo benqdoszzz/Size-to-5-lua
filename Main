@@ -1,0 +1,3 @@
+game.Players.LocalPlayer.Character.ScaleTo(2)
+wait(1)
+game.Players.LocalPlayer.Character.ScaleTo(5)
